@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position: center;
+    background-size:cover;
+	background:url(https://upload.wikimedia.org/wikipedia/commons/a/ae/Great_Waters_at_Reynolds_Lake_Oconee_-_Oct_2019.jpg);
+}
+#mycanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(Grass.jpg);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgba(193, 0, 251, 0.685);
+	background-color: aliceblue;
+	font-size:100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
